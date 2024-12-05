@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Colabs/Colabs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/Colabs/Colabs/Content/UI/Health_Widget.uasset",
 				"F:/Colabs/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
