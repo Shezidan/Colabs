@@ -5,36 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-				"D:/Colabs/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Colabs/Content/TrapBlueprints/Trap1/DeathTile.uasset",
-				"D:/Colabs/Content/TrapBlueprints/Trap2/Glass1.uasset",
-				"D:/Colabs/Content/TrapBlueprints/Trap2/Glass3.uasset",
-				"D:/Colabs/Content/TrapBlueprints/Trap3/Blade.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LY/MC1NOFQCC4CQG3ZK8SKLQT.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/V9/PJGBB22JHXVI60N5FOOJS7.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/O9/OUQ2RJRNJ0M0839L367A9H.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/66/YBTJKUJKGNGUE1NN9LYFU7.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/FI/140XHW4L3BT3RS8435JFHU.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/XP/CX5S4R9R91OIVWKVR6N1Z7.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/60/FDDMCKX5TEV2NUJ9N445WL.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/PQ/79J6QTRBZXEI2EMJYIJ1SZ.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/NP/068BBZEA4YHI8IMAWDAPVH.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/03/SKLVQK1D2ZHH429IXY44FO.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/5I/1SRP2QZZF740G6RDAVW2TQ.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/F7/CTJFOX5ZLGGJWIEJAPYGBZ.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/81/S5UY1I37GHN399ST0097BI.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/7E/ODUSHTNJWJVP661B3XTMR5.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/81/5MP7427TUTVRP2JHDMSQ22.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/90/I3JKR3KWLT7UB87IYB6RYL.uasset",
-				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/KY/V2078E3ALM374JVH8U8MGK.uasset",
-				"D:/Colabs/Content/TrapBlueprints/Models/Button_key_Cylinder_1.uasset",
+				"D:/Colabs/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Trap4/Button3.uasset",
 				"D:/Colabs/Content/TrapBlueprints/Trap4/Button1.uasset",
+<<<<<<< Updated upstream
 				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UL/1D6E9V09D76E6RYN21LFQ0.uasset",
 				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9Z/DGS2IA9A1VS2I3QT3O3B6N.uasset",
 				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/RZ/17LETMQ50KMQ14KA0RY03H.uasset",
@@ -285,6 +259,43 @@
 				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/W4/AR1IAGTFN4JJXFE6YE1Q8J.uasset",
 				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9G/M3ZB8D6SMESOLKKPP9E15R.uasset"
+>>>>>>> Stashed changes
+=======
+				"D:/Colabs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Colabs/Content/Interactable_Objects/battery/bp/Battery_BP.uasset",
+				"D:/Colabs/Content/Interactable_Objects/battery/bp/Key_BP.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9S/PHUEQTTFBNVGS6EMGJ7ZHG.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LB/6SV61ZWW271UDLPS4M4LSI.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/DD/POFL1HMT090EQBVYGGXQ1Z.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/DV/D1W755HQG0D4H6JUCC93ON.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note1.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note1UI.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Trap4/Button2.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note2.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note3.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note4.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note1UI1.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note1UI2.uasset",
+				"D:/Colabs/Content/TrapBlueprints/notes/Note1UI3.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/4T/WQSCU9HMVFM4WRKIEFHLIX.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZQ/XJV0SPP259XFZHVX4ZEXQO.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/C1/6T0YTWA2XAV8UT022IPNF1.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/W8/YUG86PLJMQNUTWK25EHMEL.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/QT/M7FXQRCZI7B96M8X0FFQM2.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/Y4/XT3MBZEI9ZUV42U2Q0UWY9.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/5R/OYGRR5YWUMGWKBECKOKA4A.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/66/59A7FHMZVHU3QQWOKDH4P3.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JM/URG7EXKMN9RPI2IR7RA605.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Trap4/Button4.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/Object_10.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/Object_12.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/Object_4.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/Object_6.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/Object_8.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/Post_it_note.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/post_it_notes_texture_0.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/post_it_notes_texture_1.uasset",
+				"D:/Colabs/Content/TrapBlueprints/Models/post_it_notes_texture_2.uasset"
 >>>>>>> Stashed changes
 			]
 		}
