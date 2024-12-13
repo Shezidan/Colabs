@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
@@ -268,6 +269,12 @@
 				"D:/Uni work/Colabs/Content/Bloodstains/Blood5.uasset",
 				"D:/Uni work/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KU/PX56OEPGSW3WPF69IJ8RNZ.uasset",
 				"D:/Uni work/Colabs/Content/Bloodstains/blood-texture-png-8.uasset"
+=======
+				"D:/Colabs/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/W4/AR1IAGTFN4JJXFE6YE1Q8J.uasset",
+				"D:/Colabs/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9G/M3ZB8D6SMESOLKKPP9E15R.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
